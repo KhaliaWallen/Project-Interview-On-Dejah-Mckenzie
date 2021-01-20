@@ -1,0 +1,48 @@
+h1{
+    color: #FF33E0;
+    background-color: purple;
+    text-align: center;
+    border-style: dotted;
+    font-family: 'Black Ops One', cursive;
+}
+
+p {
+    color: #FF33E0;
+    background-color: purple;
+    text-align: center;
+    border-style: dotted;
+    font-family: 'Black Ops One', cursive;
+}
+
+img {
+    width: 200px;
+    Margin: 1px auto;
+    display: block;
+}
+
+.first-line {
+    text-align: center;
+    border-style: dotted;
+    font-family: 'Black Ops One', cursive;
+}
+
+h2 {
+    text-align: center;
+    border-style: dotted;
+    background-color: purple;
+    color: #FF33E0;
+    font-family: 'Black Ops One', cursive;
+}
+
+h3 {
+    text-align: center;
+    border-style: dotted;
+    background-color: purple;
+    color: #FF33E0;
+    font-family: 'Black Ops One', cursive;
+}
+
+body {
+    background-color: hotpink;
+}
+
